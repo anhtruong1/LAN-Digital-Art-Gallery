@@ -1,6 +1,8 @@
 # LAN-Digital-Art-Gallery
 The assignment is to build a prototype of a website for selling arts and provide all informations of
 a city's art and activities in order to attract visitor.
+![dcc7faba-f4e7-4552-b121-d817f689fc00](https://github.com/anhtruong1/LAN-Digital-Art-Gallery/assets/91118397/6a3cd86e-173d-4b74-b85a-66e8ac006c5f)
+
 
 The website will contain some aspects. First is a main introduction about the city of Haarlem
 and its art history. The news tab provides articles, news and updates related to art of
@@ -13,3 +15,5 @@ will be update regularly for the visitors to register and join. For doing all of
 administrator mode is needed to manipulate data.
 
 ![2023-05-31_00h42_04](https://github.com/anhtruong1/LAN-Digital-Art-Gallery/assets/91118397/8e8e6e92-92a4-4321-aa4d-4df47485a535)
+
+![databasedesign](https://github.com/anhtruong1/LAN-Digital-Art-Gallery/assets/91118397/21052301-1db6-443e-a1b4-019c22769726)
